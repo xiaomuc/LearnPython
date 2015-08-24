@@ -1,2 +1,2 @@
-# pyCalcBPM
+# pythonとかDeepLearningとかの勉強用
 wavファイルの解析
